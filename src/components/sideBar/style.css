@@ -1,0 +1,12 @@
+.img {
+    max-height: 120px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.container {
+    padding: 20px;
+}
+.border-right {
+    border-right: 1px solid #7a7171;
+}

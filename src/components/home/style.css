@@ -1,0 +1,62 @@
+.container-home {
+    margin-top: 10px;
+    position: relative;
+}
+.delivery-container {
+    height: 100px;
+    margin-top: 20px;
+}
+
+.delivery-data {
+    background: #fff;
+    border-radius: 25px;
+}
+
+.check {
+    font-size: 45px !important;
+}
+
+.arrow {
+    font-size: 30px !important;
+}
+
+.arrow-down {
+    font-size: 50px !important;
+}
+
+.truck {
+    font-size: 70px !important;
+}
+.price{
+    font-size: 30px;
+}
+
+.add {
+    font-size: 80px !important;
+    cursor: pointer;
+}
+
+.add-container{
+    position: absolute;
+    bottom: -10%;
+    right: -5%;
+}
+
+.color-text1 {
+    color:#858585;
+}
+.color-text2 {
+    color:#A1A1A1;
+}
+.in-charge {
+    height: 40px;
+    width: 40px !important;
+    background-color: #ED5356;
+    color: #fff;
+    border-radius: 5px;
+
+}
+
+.options {
+    cursor: pointer;
+}

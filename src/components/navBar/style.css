@@ -1,0 +1,40 @@
+.list {
+    background: #fff;
+    margin-top: 20px;
+    padding:0;
+}
+
+.link {
+    text-decoration: none;
+    color: #183752;
+}
+
+.item-list {
+   padding-top: 10px;
+}
+
+.item-list-active {
+    background-color: #183752;
+}
+
+.item-list-active .link {
+    color: #fff;
+}
+
+.item-list:hover {
+    background-color: #183752;
+}
+
+.item-list:hover .link {
+    color: #fff;
+}
+
+.text{
+    font-size: 12px;
+    color: #000;
+    font-weight: bold;
+}
+
+.icon {
+    background-color: white;
+}

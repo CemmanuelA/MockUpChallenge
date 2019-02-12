@@ -1,0 +1,15 @@
+.titleStatus {
+    color: #7a7171;
+    border-top: 1px solid #7a7171;
+    padding-top: 20px;
+    margin: 0px;
+
+}
+
+.btnStatus {
+    background-color: #fff !important;
+}
+
+.search {
+    background: #fff;
+}
